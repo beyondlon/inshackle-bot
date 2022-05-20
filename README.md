@@ -1,7 +1,7 @@
 # Inshackle v2.3
 # Instagram bot,auto follower
 ## Recoded: github.com/beyondlon/inshackle-bot
-## IG: https://beyondlon.github.io
+## WebPage: https://beyondlon.github.io
 
 ### Don't copy this code without give me the credits, nerd! Please read the License 
 ### thanks to linuxchoice
